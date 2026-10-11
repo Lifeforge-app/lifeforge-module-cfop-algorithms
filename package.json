@@ -3,7 +3,7 @@
   "displayName": "CFOP Algorithms",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifeforge-app/lifeforge-module-cfopAlgorithms.git"
+    "url": "https://github.com/Lifeforge-app/lifeforge-module-cfop-algorithms.git"
   },
   "version": "0.0.1",
   "type": "module",
