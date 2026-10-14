@@ -1,13 +1,13 @@
 {
-  "name": "@lifeforge/lifeforge--cfop-algorithms",
+  "name": "@lifeforge/melvinchia3636--cfop-algorithms",
   "displayName": "CFOP Algorithms",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lifeforge-app/lifeforge-module-cfop-algorithms.git"
+    "url": "https://github.com/melvinchia3636/lifeforge-module-cfop-algorithms.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
-  "author": "Melvin Chia <melvinchia623600@gmail.com>",
+  "author": "melvinchia3636 <melvinchia623600@gmail.com>",
   "description": "Master the Rubik's Cube with visualized CFOP algorithms.",
   "scripts": {
     "typecheck": "cd client && tsc",
